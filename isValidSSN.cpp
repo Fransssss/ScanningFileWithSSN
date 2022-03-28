@@ -1,6 +1,7 @@
-//
-// Created by XaveF on 3/27/2022.
-//
+// Purpose: Implement the function to validate SSN number in file
+// Class: Enjoy the process
+// Author: Fransiskus Agapa
+
 #include <istream>
 #include <cctype>
 using std::string;
