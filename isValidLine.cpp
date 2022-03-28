@@ -22,7 +22,5 @@ bool isValidLine(string& line)
         return isValidSSN(possibleSSN);
       }
   }
-
-
     return true;
 }
