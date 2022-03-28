@@ -1,4 +1,4 @@
-// Purpose: Declare the function to validate line
+// Purpose: Declare the function to validate SSN number in file
 // Class: Enjoy the process
 // Author: Fransiskus Agapa
 
