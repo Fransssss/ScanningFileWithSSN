@@ -1,6 +1,6 @@
-//
-// Created by XaveF on 3/27/2022.
-//
+// Purpose: Declare the function to validate line
+// Class: Enjoy the process
+// Author: Fransiskus Agapa
 
 #ifndef SCANNINGFILESSN_ISVALIDSSN_H
 #define SCANNINGFILESSN_ISVALIDSSN_H
