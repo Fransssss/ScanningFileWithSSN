@@ -1,3 +1,8 @@
+// Title: Open, scan, and close file. validate data
+// Purpose: open file, scan the file, validate the SSN number that each naam has, then close the file
+// Class: Enjoy the process
+// Author: Fransiskus Agapa
+
 #include <iostream>
 #include <fstream>
 #include "isValidLine.h"
