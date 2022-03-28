@@ -1,6 +1,6 @@
-//
-// Created by XaveF on 3/26/2022.
-//
+// Purpose: Implement the function to validate each line in file
+// Class: Enjoy the process
+// Author: Fransiskus Agapa
 
 #include "isValidLine.h"
 #include "isValidSSN.h"
