@@ -1,6 +1,6 @@
-//
-// Created by XaveF on 3/26/2022.
-//
+// Purpose: Declare the function to validate each line in file
+// Class: Enjoy the process
+// Author: Fransiskus Agapa
 
 #ifndef SCANNINGFILESSN_ISVALIDLINE_H
 #define SCANNINGFILESSN_ISVALIDLINE_H
